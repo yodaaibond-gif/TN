@@ -1,4 +1,4 @@
-import { defineConfig } from 'vite'
+
 import react from '@vitejs/plugin-react'
 
 // ⚠️ Change 'tn-budget' to match your GitHub repository name exactly
